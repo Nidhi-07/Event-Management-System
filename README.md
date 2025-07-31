@@ -52,6 +52,3 @@ Ensure you have the following installed on your system:
 - MySQL Server
 - Git
 
-### 📥 Clone the Repository
-```bash
-git clone https://github.com/Nidhi-07/Event-Management-System.git
